@@ -7,6 +7,8 @@
 下面是指向目录内的图像：  
 ![hao123](./hao123.png)  
 下面是展示代码块：  
-  <?php
-    echo "Hello world!!!";
+```php
+<?php
+   echo "Hello world!!!";
 ?>
+```
